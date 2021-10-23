@@ -72,7 +72,7 @@ curl 'https://www.littleyang.ml/api/account/verify.php' \
 
 ```json
 {
-	"code":-405,
+    "code":-405,
     "message":"调用方法错误",
     "ttl":0
 }

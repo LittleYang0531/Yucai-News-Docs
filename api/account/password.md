@@ -80,9 +80,9 @@ curl 'https://www.littleyang.ml/api/account/password.php' \
     "data":
     {
         "uid":1,
-		"isLogin":false,
-		"password":"xxx",
-		"email":"xxx"
+        "isLogin":false,
+        "password":"xxx",
+        "email":"xxx"
     },
     "ttl":0
 }

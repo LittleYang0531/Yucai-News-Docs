@@ -92,7 +92,7 @@ curl 'https://www.littleyang.ml/api/account/information.php' \
 
 调用方法错误:
 
-```
+```json
 {
     "code":-405,
     "message":"调用方法错误",

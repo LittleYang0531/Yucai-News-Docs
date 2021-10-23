@@ -70,9 +70,9 @@ curl 'https://www.littleyang.ml/api/account/password2.php' \
     "data":
     {
         "uid":1,
-		"isLogin":false,
-		"password":"xxx",
-		"email":"xxx"
+        "isLogin":false,
+        "password":"xxx",
+        "email":"xxx"
     },
     "ttl":0
 }
@@ -121,12 +121,20 @@ curl 'https://www.littleyang.ml/api/account/password2.php' \
 challenge 值有误:
 
 ```json
-{    "code":-629,    "message":"原邮箱验证码challenge无效",    "ttl":0}
+{    
+    "code":-629,    
+    "message":"原邮箱验证码challenge无效",   
+    "ttl":0
+}
 ```
 
 邮箱验证码有误:
 
 ```json
-{    "code":-629,    "message":"原邮箱验证码有误",    "ttl":0}
+{    
+    "code":-629,    
+    "message":"原邮箱验证码有误",    
+    "ttl":0
+}
 ```
 
