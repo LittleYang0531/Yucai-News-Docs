@@ -2,7 +2,7 @@
 
 ------
 
-- [api文档](./api/main.md)
+- [api文档](./api/index.md)
 
 ------
 
