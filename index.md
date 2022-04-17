@@ -1,8 +1,9 @@
-# 育才新闻文档目录
+# LittleYang0531's 文档中心
 
 ------
 
-- [api文档](./api/index.md)
+- [育才新闻api文档](./api/index.md)
+- [LYOJ 使用文档](./lyoj/index.md)
 
 ------
 
