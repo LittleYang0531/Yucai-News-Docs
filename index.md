@@ -2,7 +2,7 @@
 
 ------
 
-- [育才新闻api文档](./api/index.md)
+- [育才新闻 api 文档](./api/index.md)
 - [LYOJ 使用文档](./lyoj/index.md)
 
 ------
